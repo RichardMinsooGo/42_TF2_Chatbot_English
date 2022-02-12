@@ -1,1 +1,3 @@
-## This repository will be updated after the update of Transformers and BERT model
+## This repository is for English Chatbot Model 
+
+Detailed explanation will be added at later. Wikidocs
